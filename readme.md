@@ -1,1 +1,1 @@
-ez a readme
+ez a readme ami online módosult
